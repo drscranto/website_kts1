@@ -46,8 +46,10 @@ I love the workflow mentioned at 46:00 in Yihui's RStudio video tutorial
     + Write and save (take a look at the automatic preview)
     + Push everything to Github
 
-## QED
-
 AND NOW I'M LIVE! [www.katiescranton.com](http://www.katiescranton.com)
 
 I want you all to know that I have not abandoned my quest to document the R community's fur and feather family. That will be another post "blogdown: the squeakquel."
+
+## UPDATE
+
+After leading a workshop on making websites in blogdown (demonstrating how to install blogdown, install a theme etc), I couldn't get my website to build anymore. Instead of tracking down the errors (pretty sure updates in the theme didn't play nicely with some of the hacky work arounds I had added), I decided to start from scratch and just copy over the content files and it worked well! If for some reason you are interested you can still see the old repo up on my github.
