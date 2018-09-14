@@ -50,7 +50,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -247,10 +247,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  #[[params.social]]
+  #  icon = "cv"
+  #  icon_pack = "ai"
+  #  link = "files/resume_web.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -267,7 +267,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Resume"
-  url = "https://drive.google.com/open?id=1rx7lbXV0ku3jwtP9segyMsqTTHvHIyiN"
+  url = "files/resume_web.pdf"
   weight = 2
 
 [[menu.main]]
