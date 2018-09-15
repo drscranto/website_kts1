@@ -23,7 +23,7 @@ projects = []
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/rladies/meetup-presentations_philadelphia/tree/master/September2018"
 
 # Does the content use math formatting?
 math = false
