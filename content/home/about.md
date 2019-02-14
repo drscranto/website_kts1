@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Stochastic Modeling",
+    "Predictive Modeling",
     "Computational Statistics",
-    "Process Noise"
+    "Optimization Algorithms"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -30,8 +30,8 @@ weight = 5
 
 # Welcome!
 
-I'm an applied statistician / data scientist, working in both R and Python, with over 11 years of programming experience and 9 peer reviewed publications. I am an organizer for [RLadies](https://rladies.org/), a global network of meetup groups to support gender diversity in the R community.
+I'm a data scientist, working in both R and Python, on problems in machine learning and computational statistics. I currently work in the health care field as a senior data scientist at Elsevier in the Precision Medicine department. I am also an organizer for [RLadies](https://rladies.org/), a global network of meetup groups to support gender diversity in the R community. My background is in statistical ecology where I developed basic theory and statistical tools for population and community ecologists, also known as "Data Science for Bugs."
 
-I'm fascinated by the ways variability or noise changes the patterns that we expect to emerge in data. I focus on computational approaches for both frequentist and Bayesian frameworks to account for variability in mechanistic models. 
+I'm fascinated by the ways variability or noise changes the patterns that we expect to emerge in data. I focus on computational approaches for both frequentist and Bayesian frameworks to account for variability in mechanistic models as well as machine learning techniques to train predictive models. 
 
 I live with two rescue pups, Maggie and Ruthie, who I think are really bears just pretending to be dogs. I spend most of my free time drinking coffee, hiking with the doggos, and watching baseball.

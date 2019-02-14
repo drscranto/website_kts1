@@ -58,7 +58,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Katie Scranton"
-  role = "Applied Statistician"
+  role = "Data Scientist"
   
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -247,10 +247,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  #[[params.social]]
-  #  icon = "cv"
-  #  icon_pack = "ai"
-  #  link = "files/resume_web.pdf"
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/resume_web.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -266,7 +266,7 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Resume"
+  name = "CV"
   url = "files/resume_web.pdf"
   weight = 2
 
