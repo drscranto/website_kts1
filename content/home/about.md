@@ -30,7 +30,7 @@ weight = 5
 
 # Welcome!
 
-I'm a data scientist, working in both R and Python, on problems in machine learning and computational statistics. I currently work in the health care field as a senior data scientist at Elsevier in the Precision Medicine department. I am also an organizer for [RLadies](https://rladies.org/), a global network of meetup groups to support gender diversity in the R community. My background is in statistical ecology where I developed basic theory and statistical tools for population and community ecologists, also known as "Data Science for Bugs."
+I'm a data scientist, working in both R and Python, on problems in machine learning and computational statistics. I currently work in the health care field as a software engineering lead and senior data scientist at Elsevier. We focus on building software prodcuts and platforms for Advanced Clinical Decision Support. My background is in statistical ecology where I developed basic theory and novel statistical methods for population and community ecologists, also known as "Data Science for Bugs." In the past I have also been an organizer for [RLadies](https://rladies.org/), a global network of meetup groups to support gender diversity in the R community.
 
 I'm fascinated by the ways variability or noise changes the patterns that we expect to emerge in data. I focus on computational approaches for both frequentist and Bayesian frameworks to account for variability in mechanistic models as well as machine learning techniques to train predictive models. 
 
