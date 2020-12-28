@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Predictive Modeling",
     "Computational Statistics",
-    "Optimization Algorithms"
+    "Healthcare data"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -30,8 +30,8 @@ weight = 5
 
 # Welcome!
 
-I'm a data scientist, working in both R and Python, on problems in machine learning and computational statistics. I currently work in the health care field as a software engineering lead and senior data scientist at Elsevier. We focus on building software prodcuts and platforms for Advanced Clinical Decision Support. My background is in statistical ecology where I developed basic theory and novel statistical methods for population and community ecologists, also known as "Data Science for Bugs." In the past I have also been an organizer for [RLadies](https://rladies.org/), a global network of meetup groups to support gender diversity in the R community.
+I'm a senior data scientist fascinated by the variability inherent in real world data. I work in the health care field as a technical lead and senior data scientist at Elsevier, focused on building software prodcuts and platforms to provide clinicians with advanced clinical decision support. In my research career I developed mathematical theory and statistical methodology in population and community ecology. I was an organizer for [RLadies](https://rladies.org/), a global network of meetup groups to support gender diversity in the R community.
 
-I'm fascinated by the ways variability or noise changes the patterns that we expect to emerge in data. I focus on computational approaches for both frequentist and Bayesian frameworks to account for variability in mechanistic models as well as machine learning techniques to train predictive models. 
+I'm fascinated by the ways variability or noise changes the patterns that we expect to emerge in data, especially when that variablilty has a common source, shared between grops of indiviuals. I focus on computational approaches for both frequentist and Bayesian frameworks to account for those sources of variability and better estimate parameters of predictive models.
 
-I live with two rescue pups, Maggie and Ruthie, who I think are really bears just pretending to be dogs. I spend most of my free time drinking coffee, hiking with the doggos, and watching baseball.
+I work in both R and Python and live with two rescue pups, Maggie and Ruthie, who I think are really bears just pretending to be dogs. I spend most of my free time drinking coffee, hiking with the doggos, and watching baseball.
