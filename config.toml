@@ -23,10 +23,3 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   logo = "images/banner.jpg"
   favicon = true
 
-[Params.social]
-  github = "https://github.com/drscranto/"
-  twitter = "https://twitter.com/drscranto"
-  email = "scranton.kt@gmail.com"
-  instagram = ""
-  linkedin = "https://linkedin.com/in/scranto"
-  telegram = ""

@@ -8,9 +8,10 @@
 /* Icons */
 
 	ul.icons {
+	  float:left;
 		cursor: default;
 		list-style: none;
-		padding-left: 0;
+		padding-left: 0.5em;
 
 		li {
 			display: inline-block;

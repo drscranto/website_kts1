@@ -4,9 +4,20 @@
         {{ with .title }}<h1>{{ . }}</h1>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
-        {{ with .button }}<ul class="actions stacked">
-            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
-        </ul>{{ end }}
+        
+        {{ with .github }}<ul class="icons">
+            <li><a target="_blank" href="{{.}}" class="icon brands style2 fa-github"><span class="label">Github</span></a></li>
+        </ul>{{end}}
+        {{ with .twitter }}<ul class="icons">
+            <li><a target="_blank" href="{{.}}" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+        </ul>{{end}}
+        {{ with .linkedin }}<ul class="icons">
+            <li><a target="_blank" href="{{.}}" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
+        </ul>{{end}}
+        {{ with .email }}<ul class="icons">
+            <li><a target="_blank" href="mailto:{{.}}" class="fav icon style2 fa-envelope"><span class="label">Email</span></a></li>
+        </ul>{{end}}
+        
     </div>
     {{ with .image }}<div class="image">
         <img src="{{.}}" alt="Hugo Story" />
