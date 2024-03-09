@@ -2,13 +2,17 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Katie Scranton"
 subtitle: |
-  Statistician / Data Scientist
 content : |
-  <strong>Hello!</strong> Thanks for getting to know a little about me. I'm a Data Science Lead at Elsevier Health dedicated to improving care and patient outcomes with a data driven approach. I focus on solving real world problems with data, specifically applying predictive models and algorithms in healthcare. Prior to joining Elsevier, I was a researcher and lecturer on mathematical modeling and computational statistics. Born and raised in Philadelphia, I love my hometown teams, enjoy eating my way through the local restaurant scene, and explore new hiking trails with my dogs. Scroll down for more info.
+  <strong>Hello!</strong> I am a data science leader who is passionate about improving patient care and health outcomes with a data-driven approach. I create and implement strategies that use data visualizations, statistical analyses, predictive analytics & machine learning to inform and support clinicians and healthcare professionals.
+  
+  I am a PhD research scientist and my research interests lie in the statistical complexities of analyzing variable, temporal cohort data to understand how individuals adhere to demographic models or pathways such as treatment guidelines. 
+  
+  I'm committed to diversity, equity, and inclusion in tech and am active in service and outreach groups. Outside of work, I love hiking local trails and trying new restaurants. I am a semi-competent DIY-er, a dedicated plant lady, and rescue dog mom
+
 image : "images/banner.jpg"
 
 github : "https://github.com/drscranto/"
 twitter : "https://twitter.com/drscranto"
-email : "scranton.kt@gmail.com"
+#email : "scranton.kt@gmail.com"
 linkedin : "https://linkedin.com/in/scranto"
 googlescholar: "https://scholar.google.com/citations?user=vAlHa8wAAAAJ"

@@ -1,9 +1,0 @@
-####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "About me"
-content: |
-  I live in Philadelphia with my two rescue dogs and love to cook, hike, and do diy house projects. Coming soon: more info on my adventures in Philly!
-#button: 
-#  label: "Learn More"
-#  link: "#"
-image: "images/aboutme.jpg"
