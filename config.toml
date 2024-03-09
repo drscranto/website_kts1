@@ -20,6 +20,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
   description = "Personal website"
-  logo = "images/banner.jpg"
+  logo = "images/10.jpeg"
   favicon = false
 
